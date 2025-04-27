@@ -1,37 +1,57 @@
-🧪 Poto
-Bienvenido al proyecto Poto, una idea colaborativa para aprender, construir y divertirnos programando.
+# Poto
 
-📚 Objetivo
-Crear una aplicación real desde cero para aprender desarrollo de software, práctica de programación, trabajo en equipo y buenas prácticas.
+Bienvenido a **Poto**, un proyecto colaborativo para aprender, construir y divertirnos programando.
 
-🛠️ Tecnologías propuestas
-Según la elección final, este proyecto puede usar:
+## 📚 Objetivo
 
-Aplicación de Escritorio: Tkinter (Python) o WindowBuilder (Java).
+Crear una aplicación real desde cero para aprender desarrollo de software, buenas prácticas, trabajo en equipo y manejo de herramientas modernas.
 
-Aplicación Web sencilla: Apache2 / XAMPP + PHP/MySQL + HTML/CSS.
+## 🛠️ Tecnologías propuestas
 
-Arquitectura Fullstack: Docker, Redis, WebSockets, Node/Next, React, TypeScript, MariaDB, Backend en PHP o Python.
+Dependiendo de la elección final, este proyecto podría utilizar:
 
-Electrónica o Juegos: Arduino, C++ o desarrollo de videojuegos 2D simples.
+- **Aplicación de Escritorio:**
+  - Tkinter (Python)
+  - WindowBuilder (Java)
 
-🗂️ Estructura Inicial
-README.md — Documentación del proyecto.
+- **Aplicación Web sencilla:**
+  - Apache2 o XAMPP
+  - PHP + MySQL
+  - HTML, CSS, JavaScript
 
-src/ — Código fuente.
+- **Arquitectura Fullstack:**
+  - Frontend: Node.js o Next.js, React, TypeScript
+  - Backend: PHP o Python
+  - Base de datos: MariaDB
+  - Comunicación en tiempo real: Redis, WebSockets
+  - Contenedores: Docker
+  - Entorno de desarrollo: WSL (Windows Subsystem for Linux)
 
-docs/ — Documentos y diagramas.
+- **Electrónica o Juegos:**
+  - Arduino, C++ o desarrollo de videojuegos 2D con C++.
 
-tests/ — Pruebas (opcional).
+## 📂 Estructura Inicial del Repositorio
 
-📅 Plan Inicial
-Definir el tipo de proyecto.
+```bash
+Poto/
+├── README.md
+├── src/        # Código fuente
+├── docs/       # Documentación y diagramas
+└── tests/      # Pruebas automáticas (opcional)
+```
 
-Planificar las primeras tareas (issues).
+## 🗓️ Plan Inicial
 
-Organizar la estructura del repositorio.
+1. Definir el tipo de proyecto.
+2. Planificar las primeras tareas.
+3. Organizar la estructura del código.
+4. Programar en pareja, aprendiendo y compartiendo.
 
-Programar en pareja, aprendiendo y compartiendo.
+## 🤝 Contribuciones
 
-🤝 Contribuciones
-Este es un proyecto de aprendizaje, ¡todas las ideas y aportes son bienvenidos!
+Este es un proyecto de aprendizaje abierto. Todas las ideas, sugerencias y aportes son bienvenidos.
+
+---
+
+# 💪 Let's build Poto together!
+
