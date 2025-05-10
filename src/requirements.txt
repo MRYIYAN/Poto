@@ -1,3 +1,7 @@
 tk
 mysql-connector-python 
+PyMuPDF
+pandas
+openpyxl
+
 
